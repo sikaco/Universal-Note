@@ -1,9 +1,10 @@
 # CODE: ALL INCLUSIVE
 
 This time, all inclusive.
-A NEW generation note app & knowledge-management tool.
 
-## Develop
+A NEW generation note & knowledge-management app.
+
+# Develop
 
 ### Run
 
