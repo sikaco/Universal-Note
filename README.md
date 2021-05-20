@@ -5,7 +5,7 @@ This time, all inclusive.
 A NEW generation note app & knowledge-management tool.
 
  
-> This project is a brand new project which inherit some technical features from old project [AirNote](https://github.com/sikaco/AirNote)
+> This project is a brand new project which inherited some technical features from old project [AirNote](https://github.com/sikaco/AirNote)
 
 ## Develop
 
