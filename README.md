@@ -2,9 +2,12 @@
 
 This time, all inclusive.
 
-A NEW generation note & knowledge-management app.
+A NEW generation note app & knowledge-management tool.
 
-# Develop
+ 
+> This project is a brand new project which inherited some technical features from old project [AirNote](https://github.com/sikaco/AirNote)
+
+## Develop
 
 ### Run
 
