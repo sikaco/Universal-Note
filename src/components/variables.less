@@ -1,0 +1,42 @@
+/*
+  colors
+ */
+
+@border-color: #cccccc;
+@test-bg-color: gray;
+
+/*
+  length
+ */
+
+@bar-bottom-height: 2.2rem;
+@bar-top-height: 2rem;
+
+/*
+  mixin
+ */
+
+.vertical-middle() {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.both-middle() {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.click-able() {
+  cursor: pointer;
+  &:hover {
+    background: #dfdfdf;
+  }
+}
+
+.not-select-able() {
+  cursor: default;
+  user-select:none;
+}
