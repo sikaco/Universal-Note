@@ -19,7 +19,7 @@
     "isolatedModules": true,
     "jsx": "react-jsx",
     "allowSyntheticDefaultImports": true,
-    "baseUrl": "./src/components",
+    // "baseUrl": "./src/components",
     "charset": "utf-8",
     "downlevelIteration": true,
     "esModuleInterop": true,
