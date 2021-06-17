@@ -10,7 +10,6 @@ import { GlobalState } from './reducer'
 
 import { createGtaMiddleware } from './middleware'
 
-import { reduxDevToolEnhancer } from './devtools'
 import { epics } from './epic'
 import { createReducer } from './reducer'
 
@@ -35,7 +34,6 @@ const configureStore = () => {
         epicMiddleware,
         routerMiddleware(history),
       ),
-      reduxDevToolEnhancer()
     )
   ) as GlobalStore<GlobalState>
 
